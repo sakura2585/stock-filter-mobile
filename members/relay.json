@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-06-30T17:05:02Z",
+    "updatedAt":  "2026-07-05T04:22:25Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
-    "relayUrl":  "https://destination-contributing-tenant-gods.trycloudflare.com"
+    "relayUrl":  "https://sorted-extend-peer-reliability.trycloudflare.com"
 }
