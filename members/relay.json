@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-05T06:29:31Z",
+    "updatedAt":  "2026-07-05T06:34:09Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
     "relayUrl":  "https://www-alfred-locale-listen.trycloudflare.com"
 }
