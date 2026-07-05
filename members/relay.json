@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-05T06:05:14Z",
+    "updatedAt":  "2026-07-05T06:09:36Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
     "relayUrl":  "https://taste-regulation-tackle-harrison.trycloudflare.com"
 }
