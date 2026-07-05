@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-05T10:52:06Z",
+    "updatedAt":  "2026-07-05T10:56:40Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
     "relayUrl":  "https://afterwards-amber-tvs-hook.trycloudflare.com"
 }
