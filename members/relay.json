@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-06T11:44:10Z",
+    "updatedAt":  "2026-07-06T12:10:57Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
-    "relayUrl":  "https://drill-hierarchy-die-frozen.trycloudflare.com"
+    "relayUrl":  "https://links-ver-solo-compiler.trycloudflare.com"
 }
