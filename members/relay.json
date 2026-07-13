@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-13T12:49:01Z",
+    "updatedAt":  "2026-07-13T12:52:34Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
     "relayUrl":  "https://stock-api.sakura-linkage.com"
 }
