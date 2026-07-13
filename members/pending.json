@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "lineUserId": "Uada5b18da4024906df9e31b26a110d2f",
+    "displayName": "麗雪",
+    "pictureUrl": null,
+    "status": "pending",
+    "requestedAt": "2026-07-13T11:26:35+00:00",
+    "approvedAt": null,
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-13T11:26:35+00:00"
+  }
+]
