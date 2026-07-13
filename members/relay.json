@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-13T11:46:24Z",
+    "updatedAt":  "2026-07-13T11:55:51Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
     "relayUrl":  "https://oral-decide-climate-harvey.trycloudflare.com"
 }
