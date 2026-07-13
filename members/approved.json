@@ -1,24 +1,12 @@
 [
-    {
-        "lineUserId":  "U01874b4486193892e93ad7afdbdc9048",
-        "displayName":  "定宇（蔥-平）",
-        "pictureUrl":  "https://profile.line-scdn.net/0hb7IKYAQPPRhkMhYSICdDZxRiPnJHQ2QKTgByLFhgYi4KVXkeSlN2LlBgMS1bUCgdGgF2fFAyMCFoIUp-emTBLGMCYClZA39KTFd0_g",
-        "messagingUserId":  "U10a7c4afda8160df215b0df9935a7414",
-        "status":  "approved",
-        "requestedAt":  "2026-07-05T06:52:30+00:00",
-        "approvedAt":  "2026-07-05T06:52:36+00:00",
-        "rejectedAt":  null,
-        "lastSeenAt":  "2026-07-13T11:52:52+00:00"
-    },
-    {
-        "lineUserId":  "Uada5b18da4024906df9e31b26a110d2f",
-        "displayName":  "麗雪",
-        "pictureUrl":  "https://profile.line-scdn.net/0hSK49_SbgDGQZQBJiCVpyWmkQDw46MVV2PXFFASlFBgMsdEtlMCJGAi0TVVUkc0thYXZHACpJAVQ7KTB1PHsBeFcZBDIiEB5hVHUfVmguVVd4EjZ1diYldkomKR9bLhJ1NiEbaVA-VCtQDx1SamEHHlwmBCtmBRZWdBdgMhxyYud2QnsxNCZCByhEUVKk",
-        "messagingUserId":  null,
-        "status":  "approved",
-        "requestedAt":  "2026-07-13T12:51:11+00:00",
-        "approvedAt":  "2026-07-13T12:51:16+00:00",
-        "rejectedAt":  null,
-        "lastSeenAt":  "2026-07-13T12:51:16+00:00"
-    }
+  {
+    "lineUserId": "U01874b4486193892e93ad7afdbdc9048",
+    "displayName": "定宇（蔥-平）",
+    "pictureUrl": "https://profile.line-scdn.net/0hb7IKYAQPPRhkMhYSICdDZxRiPnJHQ2QKTgByLFhgYi4KVXkeSlN2LlBgMS1bUCgdGgF2fFAyMCFoIUp-emTBLGMCYClZA39KTFd0_g",
+    "status": "approved",
+    "requestedAt": "2026-07-05T06:52:30+00:00",
+    "approvedAt": "2026-07-05T06:52:36+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-13T11:52:52+00:00"
+  }
 ]
