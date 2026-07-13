@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-13T12:07:53Z",
+    "updatedAt":  "2026-07-13T12:49:01Z",
     "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
-    "relayUrl":  "https://manitoba-insert-benefits-payroll.trycloudflare.com"
+    "relayUrl":  "https://stock-api.sakura-linkage.com"
 }
