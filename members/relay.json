@@ -1,5 +1,6 @@
 {
-    "updatedAt":  "2026-07-13T13:29:11Z",
-    "note":  "Mobile LINE login relay. Empty relayUrl means use LAN QR on same Wi-Fi.",
+    "updatedAt":  "2026-07-14T11:15:20Z",
+    "joinApiUrl":  "https://join-api.sakura-linkage.com",
+    "note":  "relayUrl=PC tunnel; joinApiUrl=always-on offline join queue (Cloudflare Worker).",
     "relayUrl":  "https://stock-api.sakura-linkage.com"
 }
