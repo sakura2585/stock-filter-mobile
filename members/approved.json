@@ -28,5 +28,15 @@
     "approvedAt": "2026-07-13T13:14:13+00:00",
     "rejectedAt": null,
     "lastSeenAt": "2026-07-13T13:14:13+00:00"
+  },
+  {
+    "lineUserId": "Ub5cbd953131c32f94110fd41f370f49c",
+    "displayName": "昇",
+    "pictureUrl": "https://profile.line-scdn.net/0hEPNtKZj6Gn9jDQ_C1L1kABNdGRVAfENtSWgFSgZYE0cKPAopGGNTGgQPRh0OPg8oHThdHVBaTU1vHm0ZfVvmS2Q9R05ePFgtS2hTmQ",
+    "status": "approved",
+    "requestedAt": "2026-07-14T11:23:19+00:00",
+    "approvedAt": "2026-07-14T11:23:25+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-14T11:23:25+00:00"
   }
 ]
