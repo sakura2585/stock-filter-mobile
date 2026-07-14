@@ -1,50 +1,42 @@
 [
-    {
-        "lineUserId":  "U01874b4486193892e93ad7afdbdc9048",
-        "displayName":  "定宇（蔥-平）",
-        "pictureUrl":  "https://profile.line-scdn.net/0hb7IKYAQPPRhkMhYSICdDZxRiPnJHQ2QKTgByLFhgYi4KVXkeSlN2LlBgMS1bUCgdGgF2fFAyMCFoIUp-emTBLGMCYClZA39KTFd0_g",
-        "messagingUserId":  "U10a7c4afda8160df215b0df9935a7414",
-        "status":  "approved",
-        "officialPushEnabled":  true,
-        "requestedAt":  "2026-07-05T06:52:30+00:00",
-        "approvedAt":  "2026-07-05T06:52:36+00:00",
-        "rejectedAt":  null,
-        "lastSeenAt":  "2026-07-13T11:52:52+00:00"
-    },
-    {
-        "lineUserId":  "Uada5b18da4024906df9e31b26a110d2f",
-        "displayName":  "麗雪",
-        "pictureUrl":  "https://profile.line-scdn.net/0hSK49_SbgDGQZQBJiCVpyWmkQDw46MVV2PXFFASlFBgMsdEtlMCJGAi0TVVUkc0thYXZHACpJAVQ7KTB1PHsBeFcZBDIiEB5hVHUfVmguVVd4EjZ1diYldkomKR9bLhJ1NiEbaVA-VCtQDx1SamEHHlwmBCtmBRZWdBdgMhxyYud2QnsxNCZCByhEUVKk",
-        "messagingUserId":  "U767921cd1aeac8ba64ff5e42481613af",
-        "status":  "approved",
-        "officialPushEnabled":  true,
-        "requestedAt":  "2026-07-13T13:05:58+00:00",
-        "approvedAt":  "2026-07-13T13:06:03+00:00",
-        "rejectedAt":  null,
-        "lastSeenAt":  "2026-07-13T13:06:03+00:00"
-    },
-    {
-        "lineUserId":  "U4f47a42b317b0b5c91cfb0736b7e5a46",
-        "displayName":  "Kenny方䪙瑋",
-        "pictureUrl":  "https://profile.line-scdn.net/0m034e89ca7251346658ef91b8a9c1ab8a664016480d6a",
-        "messagingUserId":  "U15e9aba2ff64993c30ffaa7c70c70e8f",
-        "status":  "approved",
-        "officialPushEnabled":  true,
-        "requestedAt":  "2026-07-13T13:13:49+00:00",
-        "approvedAt":  "2026-07-13T13:14:13+00:00",
-        "rejectedAt":  null,
-        "lastSeenAt":  "2026-07-13T13:14:13+00:00"
-    },
-    {
-        "lineUserId":  "Ub5cbd953131c32f94110fd41f370f49c",
-        "displayName":  "昇",
-        "pictureUrl":  "https://profile.line-scdn.net/0hEPNtKZj6Gn9jDQ_C1L1kABNdGRVAfENtSWgFSgZYE0cKPAopGGNTGgQPRh0OPg8oHThdHVBaTU1vHm0ZfVvmS2Q9R05ePFgtS2hTmQ",
-        "messagingUserId":  "U76f9f87cff9e67c97743fcd0bee76ab1",
-        "status":  "approved",
-        "officialPushEnabled":  true,
-        "requestedAt":  "2026-07-14T11:23:19+00:00",
-        "approvedAt":  "2026-07-14T11:23:25+00:00",
-        "rejectedAt":  null,
-        "lastSeenAt":  "2026-07-14T11:23:25+00:00"
-    }
+  {
+    "lineUserId": "U01874b4486193892e93ad7afdbdc9048",
+    "displayName": "定宇（蔥-平）",
+    "pictureUrl": "https://profile.line-scdn.net/0hb7IKYAQPPRhkMhYSICdDZxRiPnJHQ2QKTgByLFhgYi4KVXkeSlN2LlBgMS1bUCgdGgF2fFAyMCFoIUp-emTBLGMCYClZA39KTFd0_g",
+    "status": "approved",
+    "requestedAt": "2026-07-05T06:52:30+00:00",
+    "approvedAt": "2026-07-05T06:52:36+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-13T11:52:52+00:00"
+  },
+  {
+    "lineUserId": "Uada5b18da4024906df9e31b26a110d2f",
+    "displayName": "麗雪",
+    "pictureUrl": "https://profile.line-scdn.net/0hSK49_SbgDGQZQBJiCVpyWmkQDw46MVV2PXFFASlFBgMsdEtlMCJGAi0TVVUkc0thYXZHACpJAVQ7KTB1PHsBeFcZBDIiEB5hVHUfVmguVVd4EjZ1diYldkomKR9bLhJ1NiEbaVA-VCtQDx1SamEHHlwmBCtmBRZWdBdgMhxyYud2QnsxNCZCByhEUVKk",
+    "status": "approved",
+    "requestedAt": "2026-07-13T13:05:58+00:00",
+    "approvedAt": "2026-07-13T13:06:03+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-13T13:06:03+00:00"
+  },
+  {
+    "lineUserId": "U4f47a42b317b0b5c91cfb0736b7e5a46",
+    "displayName": "Kenny方䪙瑋",
+    "pictureUrl": "https://profile.line-scdn.net/0m034e89ca7251346658ef91b8a9c1ab8a664016480d6a",
+    "status": "approved",
+    "requestedAt": "2026-07-13T13:13:49+00:00",
+    "approvedAt": "2026-07-13T13:14:13+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-13T13:14:13+00:00"
+  },
+  {
+    "lineUserId": "Ub5cbd953131c32f94110fd41f370f49c",
+    "displayName": "昇",
+    "pictureUrl": "https://profile.line-scdn.net/0hEPNtKZj6Gn9jDQ_C1L1kABNdGRVAfENtSWgFSgZYE0cKPAopGGNTGgQPRh0OPg8oHThdHVBaTU1vHm0ZfVvmS2Q9R05ePFgtS2hTmQ",
+    "status": "approved",
+    "requestedAt": "2026-07-14T11:23:19+00:00",
+    "approvedAt": "2026-07-14T11:23:25+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-14T11:23:25+00:00"
+  }
 ]
