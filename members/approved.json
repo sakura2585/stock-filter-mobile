@@ -38,5 +38,15 @@
     "approvedAt": "2026-07-14T11:23:25+00:00",
     "rejectedAt": null,
     "lastSeenAt": "2026-07-14T11:23:25+00:00"
+  },
+  {
+    "lineUserId": "U61dcc9eaf58232c13652e55f12ca52dd",
+    "displayName": "琇蘭",
+    "pictureUrl": "https://profile.line-scdn.net/0hlE8s5rKvM2oVCh_a2fJNFWVaMAA2e2p4MWspDXMNaw4uPyE4P2x4XyUMbV8gOXE9bjguC3UCbAgZGUQMC1zPXhI6blsoO3E4PW96jA",
+    "status": "approved",
+    "requestedAt": "2026-07-14T13:14:02+00:00",
+    "approvedAt": "2026-07-14T13:14:11+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-14T13:14:11+00:00"
   }
 ]
