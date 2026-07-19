@@ -58,5 +58,15 @@
     "approvedAt": "2026-07-18T08:59:20+00:00",
     "rejectedAt": null,
     "lastSeenAt": "2026-07-18T08:59:20+00:00"
+  },
+  {
+    "lineUserId": "U5ed0e144244d0dc8fa442363b5b7390b",
+    "displayName": "李紀坊",
+    "pictureUrl": "https://profile.line-scdn.net/0hRhcOP2daDUdONhOtjJdzeT5mDi1tR1RVNgdCJCg0UnB1UUkQYlMQJHxlW38gUh9FNVQSdnw_BiVsVAloAVI8eBh2Ewg2XS56FVEjaGd2JgAqQzd1NDc-QzlzGCoYAgxQPQNHICJKLnUtRE5BNRYSQnJDUnYJbQoNJ2FhEUsEY8QhNHoSY1BDJH8yUHHz",
+    "status": "approved",
+    "requestedAt": "2026-07-19T09:06:03+00:00",
+    "approvedAt": "2026-07-19T09:06:20+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-19T09:06:20+00:00"
   }
 ]
