@@ -78,5 +78,15 @@
     "approvedAt": "2026-07-25T06:14:09+00:00",
     "rejectedAt": null,
     "lastSeenAt": "2026-07-25T06:14:26+00:00"
+  },
+  {
+    "lineUserId": "U7aed57f159f21f990f30fd04495a669e",
+    "displayName": "Violet",
+    "pictureUrl": "https://profile.line-scdn.net/0hGIrivCTdGGZfEAcoNb1mWC9AGwx8YUF0cSEDVz4WRFExcgw5J3ReAjkXQFMyIFg2IH9VA29CRlR9YAZjLBQiAjZFDSQ-JSNgEyAxXQpDFSIlWTRmFCIsSTpiODIGcFxwKgkJehF5PAg0eQtbGCUKVTVtIzI7eAR3Ekd0MFoiduUwEm8zcnZWBW4URVDi",
+    "status": "approved",
+    "requestedAt": "2026-07-25T06:15:18+00:00",
+    "approvedAt": "2026-07-25T06:15:31+00:00",
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-25T06:15:31+00:00"
   }
 ]
