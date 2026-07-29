@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "lineUserId": "Uaef472e400b94170cd33b24fc39cd739",
+    "displayName": "鄭妞妞",
+    "pictureUrl": "",
+    "status": "pending",
+    "requestedAt": "2026-07-29T10:19:19+00:00",
+    "approvedAt": null,
+    "rejectedAt": null,
+    "lastSeenAt": "2026-07-29T10:19:19+00:00"
+  }
+]
