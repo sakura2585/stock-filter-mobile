@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-07-15T15:13:17Z",
+    "updatedAt":  "2026-09-27T09:44:47Z",
     "joinApiUrl":  "https://join-api.sakura-linkage.com",
     "note":  "relayUrl=PC tunnel; joinApiUrl=always-on offline join queue (Cloudflare Worker).",
     "relayUrl":  "https://stock-api.sakura-linkage.com"
